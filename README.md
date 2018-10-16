@@ -1,57 +1,18 @@
-# Project Name
+# InceptionV3 Model in Azure AI Gallery
 
-(short, 1-3 sentenced, description of the project)
+## Intro
+This repository contains code which demonstrates how to deploy and use an Inception model in Azure Machine Learning.
 
-## Features
+## How to Use
+1. Use [![Azure Notebooks](https://notebooks.azure.com/launch.png)] to [import the sample notebooks](https://notebooks.azure.com/import/gh/Azure-Samples/AML-Gallery-InceptionV3) into Azure Notebooks.
+2. Run the [configuration notebook](00.configuration.ipynb) to create your workspace. 
+3. Run the [01.deploy-inception-model notebook](01.deploy-inception-model) to deploy inception v3 model to a web service and try out for inference.
 
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
+# Resources
 
 
-## Demo
+## About Azure ML
+Get the full documentation for Azure Machine Learning service at https://docs.microsoft.com/azure/machine-learning/service/
 
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+## More Examples
+ * [Azure/MachineLearningNotebooks GitHub site](https://github.com/Azure/MachineLearningNotebooks)
