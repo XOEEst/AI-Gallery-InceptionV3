@@ -4,9 +4,9 @@
 This repository contains code which demonstrates how to deploy and use an Inception model in Azure Machine Learning.
 
 ## How to Use
-1. Use [![Azure Notebooks](https://notebooks.azure.com/launch.png)] to [import the sample notebooks](https://notebooks.azure.com/import/gh/Azure-Samples/AML-Gallery-InceptionV3) into Azure Notebooks.
+1. Use [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/Azure-Samples/AI-Gallery-InceptionV3) to [import the sample notebooks](https://notebooks.azure.com/import/gh/Azure-Samples/AI-Gallery-InceptionV3) into Azure Notebooks.
 2. Run the [configuration notebook](00.configuration.ipynb) to create your workspace. 
-3. Run the [01.deploy-inception-model notebook](01.deploy-inception-model) to deploy inception v3 model to a web service and try out for inference.
+3. Run the [01.deploy-inception-model notebook](01.deploy-inception-model.ipynb) to deploy inception v3 model to a web service and try out for inference.
 
 # Resources
 
