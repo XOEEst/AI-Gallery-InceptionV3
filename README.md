@@ -1,3 +1,16 @@
+---
+topic: sample
+languages:
+- python
+technologies:
+- Azure Machine Learning
+extensions:
+  github topics:
+  - gallery
+  - tensorflow
+  - inception
+---
+
 # InceptionV3 Model in Azure AI Gallery
 
 ## Intro
