@@ -9,7 +9,7 @@ extensions:
   - gallery
   - tensorflow
   - inception
-  - test2
+  - test3
 ---
 
 # InceptionV3 Model in Azure AI Gallery
