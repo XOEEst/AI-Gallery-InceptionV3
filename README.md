@@ -6,7 +6,7 @@ technologies:
 - Azure Machine Learning
 extensions:
   gallery_topics:
-  - test
+  - gallery
   - tensorflow
   - inception
 ---
