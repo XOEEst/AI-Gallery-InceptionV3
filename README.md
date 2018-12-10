@@ -8,6 +8,7 @@ extensions:
   gallery_topics:
   - tensorflow
   - inception
+  - gallery
 ---
 
 # InceptionV3 Model in Azure AI Gallery
