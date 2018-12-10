@@ -5,7 +5,7 @@ languages:
 technologies:
 - Azure Machine Learning
 extensions:
-  galllery_topics:
+  gallery_topics:
   - tensorflow
   - inception
 ---
