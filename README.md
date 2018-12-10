@@ -4,7 +4,7 @@ languages:
 - python
 technologies:
 - Azure Machine Learning
-exttensions:
+extttensions:
   gallery_topics:
   - tensorflow
   - inception
